@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 """
-0-pascal_triangle alx task
+0-pascal_triangleazaz
 """
+
 
 def pascal_triangle(n):
     """
-    Returns a list of integers
+    representing the Pascal Triangle of n
     """
     k = []
     if n <= 0:
