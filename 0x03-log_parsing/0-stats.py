@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 '''script for parsing HTTP request logs.
 '''
@@ -85,4 +84,3 @@ def run():
 
 if __name__ == '__main__':
     run()
-
